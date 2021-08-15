@@ -30,10 +30,8 @@ My name is Lewis Baxter, a self-taught web developer and enthusiast software dev
 ## Database Skills
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion%20-%23010101.svg?logo=notion&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
 
