@@ -54,6 +54,9 @@ My name is Lewis Baxter, a self-taught web developer and enthusiast software dev
 <a href="https://www.instagram.com/lewis.j.b" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+<a href="https://showwcase.com/lewisjb337" target="_blank">
+<img src=https://img.shields.io/badge/showwcase-%23000000.svg?&style=for-the-badge&logo=showwcase&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
 </div> 
 
 <br>
