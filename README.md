@@ -48,15 +48,15 @@ My name is Lewis Baxter, a self-taught web developer and enthusiast software dev
 <a href="https://twitter.com/lewisjbaxter" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
+<a href="https://showwcase.com/lewisjb337" target="_blank">
+<img src=https://img.shields.io/badge/showwcase-%23000000.svg?&style=for-the-badge&logo=showwcase&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
 <a href="https://www.linkedin.com/in/lewis-baxter-9160541a1/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/lewis.j.b" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-<a href="https://showwcase.com/lewisjb337" target="_blank">
-<img src=https://img.shields.io/badge/showwcase-%23000000.svg?&style=for-the-badge&logo=showwcase&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a>
 </div> 
 
 <br>
