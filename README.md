@@ -1,6 +1,6 @@
 # Hey there<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /></h1>
 
-My name is Lewis Baxter, a self-taught web developer and enthusiast software developer in my free time! I'm currently based in the UK working as a Junior Front-End Web Developer for a company called [Graphitas!](https://www.graphitas.co.uk/) Here is a bit about me.
+My name is Lewis Baxter, a self-taught web developer and enthusiast software developer in my free time! Here is a bit about me.
 <!--
 <br>
 
