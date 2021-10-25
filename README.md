@@ -8,8 +8,6 @@ My name is Lewis Baxter, a self-taught web developer and enthusiast software dev
   <img src="https://github-readme-stats.vercel.app/api?username=lewisjb337&theme=dark&show_icons=true" alt="Lewis Baxter Github Stats"></img>
 </p>
 -->
-  
-<br>
 
 ## Front-End Skills
 <p>
