@@ -35,8 +35,8 @@ My name is Lewis! I'm a self-taught web developer, with extensive commercial exp
 
 <br>
 
-<div align="center">
-  <img height="137px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewisjb337&hide=html,java&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dracula" />
+<div>
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewisjb337&hide=html,java&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dracula" />
 </div>
 
 <br>
