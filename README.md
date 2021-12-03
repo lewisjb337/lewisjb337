@@ -20,7 +20,6 @@ My name is Lewis! I'm a self-taught web developer, with extensive commercial exp
 
 ## Back-End Skills
 <p>
-   <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></img>
    <img alt="Django" src="https://img.shields.io/badge/Django%20-%2314354C.svg?logo=django&logoColor=white"></img>
    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node-dot-js&logoColor=white"></img>
    <img alt="Docker" src="https://img.shields.io/badge/Docker-2391E6.svg?logo=docker&logoColor=white"></img>
@@ -31,6 +30,13 @@ My name is Lewis! I'm a self-taught web developer, with extensive commercial exp
     <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
     <a href="https://www.sqlite.org/index.html"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"></a>
+</p>
+
+## Software Skills
+<p>
+    <a href="https://www.java.com/en/"><img alt="Java" src ="https://img.shields.io/badge/java-%234ea94b.svg?logo=java&logoColor=white"></a>
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></img>
+    <a href="https://www.java.com/en/"><img alt="C#" src ="https://img.shields.io/badge/csharp-%234ea94b.svg?logo=csharp&logoColor=white"></a>
 </p>
 
 <br>
