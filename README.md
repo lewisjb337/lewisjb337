@@ -11,18 +11,18 @@ My name is Lewis! I'm a self-taught web developer, with extensive commercial exp
 
 ## Front-End Skills
 <p>
-   <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></img>
-   <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></img>
-   <img alt="SASS" src="https://img.shields.io/badge/Sass%20-hotpink.svg?logo=SASS&logoColor=white"></img>
-   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></img>
-   <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></img>
+   <a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></img></a>
+   <a href="https://en.wikipedia.org/wiki/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></img></a>
+   <a href="https://sass-lang.com/"><img alt="SASS" src="https://img.shields.io/badge/Sass%20-hotpink.svg?logo=SASS&logoColor=white"></img></a>
+   <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></img></a>
+   <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></img></a>
 </p>
 
 ## Back-End Skills
 <p>
-   <img alt="Django" src="https://img.shields.io/badge/Django%20-%2314354C.svg?logo=django&logoColor=white"></img>
-   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node-dot-js&logoColor=white"></img>
-   <img alt="Docker" src="https://img.shields.io/badge/Docker-2391E6.svg?logo=docker&logoColor=white"></img>
+   <a href="https://www.djangoproject.com/"><img alt="Django" src="https://img.shields.io/badge/Django%20-%2314354C.svg?logo=django&logoColor=white"></img></a>
+   <a href="https://nodejs.org/en/"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=nodedotjs&logoColor=white"></img></a>
+   <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2391E6.svg?logo=docker&logoColor=white"></img></a>
 </p>
 
 ## Database Skills
@@ -35,7 +35,7 @@ My name is Lewis! I'm a self-taught web developer, with extensive commercial exp
 ## Software Skills
 <p>
     <a href="https://www.java.com/en/"><img alt="Java" src ="https://img.shields.io/badge/java-%234ea94b.svg?logo=java&logoColor=white"></a>
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></img>
+    <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></img><a>
     <a href="https://www.java.com/en/"><img alt="C#" src ="https://img.shields.io/badge/csharp-%234ea94b.svg?logo=csharp&logoColor=white"></a>
 </p>
 
