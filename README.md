@@ -70,9 +70,6 @@ My name is Lewis! I'm a self-taught web developer, with extensive commercial exp
 <a href="https://www.linkedin.com/in/lewis-baxter-9160541a1/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=LinkedIn style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/lewis.j.b" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
 </div> 
 
 <br>
