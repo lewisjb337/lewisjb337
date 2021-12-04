@@ -74,4 +74,4 @@ My name is Lewis! I'm a self-taught web developer, with extensive commercial exp
 
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=oguzsh&label=Profile%20views&color=0e75b6&style=flat" alt="oguzsh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=oguzsh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
