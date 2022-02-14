@@ -6,7 +6,7 @@ My name is Lewis! I'm a self-taught web developer, with extensive commercial exp
 
 <br>
 
-## Software & Management
+# Software & Management
 ### IDE's
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
@@ -32,7 +32,7 @@ My name is Lewis! I'm a self-taught web developer, with extensive commercial exp
 <br>
 <br>
 
-## Programming
+# Programming
 ### Frameworks, Platforms & Libraries
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -61,7 +61,7 @@ My name is Lewis! I'm a self-taught web developer, with extensive commercial exp
 <br>
 <br>
 
-## Data Processing
+# Data Processing
 ### Database Skills
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -77,7 +77,7 @@ My name is Lewis! I'm a self-taught web developer, with extensive commercial exp
 <br>
 <br>
 
-## Miscellaneous
+# Miscellaneous
 ### Other
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
