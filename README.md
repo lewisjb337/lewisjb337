@@ -34,9 +34,9 @@ My name is Lewis! I'm a self-taught web developer, with extensive commercial exp
 
 ## Software Skills
 <p>
-    <a href="https://www.java.com/en/"><img alt="Java" src ="https://img.shields.io/badge/java-%234ea94b.svg?logo=java&logoColor=white"></a>
+    <a href="https://www.java.com/en/"><img alt="Java" src ="https://img.shields.io/badge/Java-%234ea94b.svg?logo=java&logoColor=white"></a>
     <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></img><a>
-    <a href="https://www.java.com/en/"><img alt="C#" src ="https://img.shields.io/badge/csharp-%234ea94b.svg?logo=csharp&logoColor=white"></a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" src ="https://img.shields.io/badge/Csharp-%234ea94b.svg?logo=csharp&logoColor=white"></a>
 </p>
 
 <br>
