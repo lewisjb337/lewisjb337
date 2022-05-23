@@ -2,7 +2,7 @@
 
 # Hey there<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /></h1>
 
-My name is Lewis! I'm a self-taught web developer, with extensive commercial experience, I'm currently working as a Systems Architect in the UK. Here's a breakdown of all my technical skills in each field, feel free to brows through my repositories too!
+My name is Lewis! I'm a self-taught web developer, with extensive commercial experience, I'm currently working as a Full Stack Developer in the UK. Here's a breakdown of all my technical skills in each field, feel free to brows through my repositories too!
 
 <br>
 
