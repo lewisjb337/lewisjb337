@@ -101,9 +101,6 @@ My name is Lewis! I'm a self-taught web developer, with extensive commercial exp
 <a href="https://www.linkedin.com/in/lewis-baxter-9160541a1/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=LinkedIn style="margin-bottom: 5px;" />
 </a>
-<a href="https://app.usebraintrust.com/talent/49212/" target="_blank">
-<img src=https://img.shields.io/badge/braintree-%23000000.svg?&style=for-the-badge&logo=braintree&logoColor=white alt=Braintree style="margin-bottom: 5px;" />
-</a>
 </div> 
 
 <br>
