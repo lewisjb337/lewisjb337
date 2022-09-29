@@ -2,7 +2,7 @@
 
 # Hey there<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /></h1>
 
-Self-taught software / web developer with 2+ years of commercial experience and extensive knowledge of current web technologies and software development. Currently working as a Full Stack Developer at [4C Offshore Ltd](https://www.4coffshore.com/) with a primary focus on developing our customer dashboard using C#, JavaScript and other major web technologies.
+Self-taught software / web developer with 2+ years of commercial experience and extensive knowledge of contemporary web technologies and software development. Currently working as a Full Stack Developer at [4C Offshore Ltd](https://www.4coffshore.com/) with a primary focus on developing our customer dashboard using C#, JavaScript and other major web technologies.
 
 <br>
 
