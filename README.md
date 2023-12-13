@@ -2,7 +2,7 @@
 
 # Hey there<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /></h1>
 
-I'm Lewis, a self-taught software developer with over three years of commercial experience and extensive knowledge of contemporary web technologies and methodologies.
+I'm Lewis, software developer with over three years of industry experience and extensive knowledge of contemporary web technologies and methodologies.
 
 <br>
 
