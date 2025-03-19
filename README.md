@@ -2,7 +2,7 @@
 
 # Hey there<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /></h1>
 
-I'm Lewis, software developer with five years of industry experience and extensive knowledge of contemporary web technologies, design patterns and software development methodologies. Currently working as a Software Developer for a satellite communications company building back-end systems for remote asset management system.
+I'm Lewis, software developer with five years of industry experience and extensive knowledge of contemporary web technologies, design patterns and software development methodologies. Currently working as a Software Developer for a web development agency, matintaining existing applications both front & back end as well as developing new features and technologies.
 
 <br>
 
